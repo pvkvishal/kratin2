@@ -1,0 +1,17 @@
+Name: Vishal Kailas Patil
+CCPP ID: PD1214
+
+Aim: To develope an Application for senior citizen of india where they can be self dependent and make there life easy.
+
+Functionalities:
+         1.Register
+         2.Login
+         3.Book Doctor Appointment with respect to disease (blood-pressure, Heart problem, Diabetes, orthopedic problem, Dental problem, skin problem, etc.) and with respect to Location.
+         4.Saved history of prescriptions and dosage of medicenes given by doctor. (no need to preserve papers for further checkup or referance, will also help to remind dosage amount and time if forgot)
+         5.Shop for accessories for 2nd innings like specs, wheelchair, walking stick, muscle bandages, hearing aids, etc.
+         6.Setup SOS for emergency contact. where in any discomfort caused SOS can be activated and immediatly within no time near by hospitals, and relatives will be alarmed about situation.
+
+Technology: Reactjs, Redux, expressjs, MongoDb, nodejs, jwt(security).
+           
+         
+    

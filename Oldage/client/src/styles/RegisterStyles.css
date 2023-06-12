@@ -1,0 +1,18 @@
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.register-form {
+  border: 1px solid skyblue;
+  padding: 30px;
+  background-color:white;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  background-image: "url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fyou-are-not-alone-heart-moss-pavement-pillow-red-valentines-wallpaper-agdyd&psig=AOvVaw2x5zltZzoXQ35pnOJ20J_I&ust=1686657948233000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj4sdHYvf8CFQAAAAAdAAAAABAE')";
+}
